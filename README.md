@@ -1,31 +1,36 @@
-# title(){return this.options.title||this.options.name}
+# Data Analytics Dashboard
 
-Quick start:
+This is a project from [Scrimba's From Figma to code](https://scrimba.com/learn/figmatocode), taught by Gary Simon.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Table of contents
 
-## Development
+- [Overview](#overview)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## Overview
 
-```
-$ yarn watch # npm run watch
-```
+### Screenshots
 
-## Supporting Scrimba
+<img src="./result/desktop.png" alt="Desktop" width="400" />
+<img src="./result/mobile.png" alt="Mobile" width="200" />
+<img src="./result/mobile-nav.png" alt="Mobile Nav" width="200"/>
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+### Links
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+- [Live Site URL](https://miri52.github.io/data-analytics-dashboard/)
 
-	It would also mean the world to us if you share the courses.  
+## My process
 
-Happy Coding!
+### Built with
+
+- Mobile-first workflow
+- Media queries
+- Flexbox
+
+## Author
+
+- LinkedIn - [Miriama Svítková](https://www.linkedin.com/in/miriama-svitkova)
